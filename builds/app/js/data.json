@@ -1,0 +1,26 @@
+[
+  {
+    "patName": "Mr.Fahad",
+    "drName": "Dr.Shah",
+    "aptDate": "2017-06-20 15:30",
+    "aptNotes": "This Patient has high BP."
+  },
+  {
+    "patName": "Mr.Asad",
+    "drName": "Dr.Khurram",
+    "aptDate": "2017-06-24 08:30",
+    "aptNotes": "This Patient has some back pain"
+  },
+  {
+    "patName": "Mrs.Anum",
+    "drName": "Dr.Farhan",
+    "aptDate": "2017-06-22 15:50",
+    "aptNotes": "This Patient is suffering from fever."
+  },
+  {
+    "patName": "Mr.raza",
+    "drName": "Dr.Jahanzaib ",
+    "aptDate": "2017-06-21 9:15",
+    "aptNotes": "This Patient has high cholestrol causing BP."
+  }
+]
